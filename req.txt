@@ -1,0 +1,15 @@
+beautifulsoup4==4.9.3
+binary==1.0.0
+certifi==2020.12.5
+chardet==4.0.0
+emoji==0.6.0
+geographiclib==1.50
+geopy==2.1.0
+idna==2.10
+pkg-resources==0.0.0
+psycopg2-binary==2.8.6
+pyTelegramBotAPI==3.7.5
+requests==2.25.1
+selenium==3.141.0
+soupsieve==2.1
+urllib3==1.26.2
